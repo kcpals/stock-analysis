@@ -13,7 +13,9 @@ In performing the analysis of Daqo only, we wanted to understand the yearly retu
 Based on some of the data, it appears Daqo may not be the best stock for sole investment.  We wanted to analyze multiple stocks to find better choices for Steve's clients.
 ###[Contribution for the project] (vbachallenge.xlsm) All Stocks Analysis Tab
 
-
+To see how stocks performed at a glance, we colored positive returns in green and negative returns in red.
+![Outcomes Based on Date](resources/Theater_Outcomes_vs_Launch.png)
+Additionally, to make running the analysis easier, we provided a Run Analysis for All stocks button within the document
 
 
 
