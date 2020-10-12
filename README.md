@@ -5,13 +5,13 @@ Client, Steve, is looking for analysis of various green energy stocks to diversi
 
 ## Results
 Steve was interested in finding total daily volume and yearly return for each stock.  Since Steve's clients have invested only in Daqo, we started with an analysis of Daq only. We discovered that the stock is traded often, 107,873,900 times in 2018.  Steve's clients believe if a stock is traded often then the price will accurately reflect the value of the stock 
-###[Contribution for the project](vbachallenge.xlsm) DQ Analysis Tab
+https://github.com/kcpals/stock-analysis/blob/main/VBA_Challenge.xlsm DQ Analysis Tab
 
 In performing the analysis of Daqo only, we wanted to understand the yearly return in addition to how often the stock was traded.  Through our analysis we were able to uncover the stock dropped over 63% 
-###[Contribution for the project](vbachallenge.xlsm) DQ Analysis Tab
+https://github.com/kcpals/stock-analysis/blob/main/VBA_Challenge.xlsm DQ Analysis Tab
 
 Based on some of the data, it appears Daqo may not be the best stock for sole investment.  We wanted to analyze multiple stocks to find better choices for Steve's clients.
-###[Contribution for the project] (vbachallenge.xlsm) All Stocks Analysis Tab
+https://github.com/kcpals/stock-analysis/blob/main/VBA_Challenge.xlsm All Stocks Analysis Tab
 
 To see how stocks performed at a glance, we colored positive returns in green and negative returns in red.  We provided this information for all stocks in 2017 and 2018.
 https://github.com/kcpals/stock-analysis/blob/main/2017.png
