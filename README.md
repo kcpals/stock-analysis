@@ -16,7 +16,7 @@ https://github.com/kcpals/stock-analysis/blob/main/VBA_Challenge.xlsm All Stocks
 To see how stocks performed at a glance, we colored positive returns in green and negative returns in red.  We provided this information for all stocks in 2017 and 2018.
 https://github.com/kcpals/stock-analysis/blob/main/2017.png
 https://github.com/kcpals/stock-analysis/blob/main/2018.png
-Additionally, to make running the analysis easier, we provided a **Run Analysis for All stocks** button within the document
+Additionally, to make running the analysis easier, we provided a ***Run Analysis for All Stocks*** button within the document
 
 In the case Steve would like to to perform analysis on larger datasets and wants to know how fast his VBA code will compile results, we've added a script to calculate how long the code takes to execute and output the elapsed time in a message box.
 Referencing the following, will show you the elapsed time for outputs as they are after we refactored the code.  
