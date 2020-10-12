@@ -22,5 +22,5 @@ In the case Steve would like to to perform analysis on larger datasets and wants
 Referencing the following, will show you the elapsed time for outputs as they are today
 https://github.com/kcpals/stock-analysis/tree/main/Resources
 
-##Summary
+## Summary
 SunRun(Run) and Enphase Energy(ENPH) showed the most positive returns in 2018 and 2017.  In fact all stocks with the exception of Terra Form Power(TERP) showed a positive return in 2017
