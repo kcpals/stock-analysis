@@ -8,11 +8,14 @@ Steve was interested in finding total daily volume and yearly return for each st
 ###[Contribution for the project](green_stocks (2).xlsm) DQ Analysis Tab
 
 In performing the analysis of Daqo only, we wanted to understand the yearly return in addition to how often the stock was traded.  Through our analysis we were able to uncover the stock dropped over 63% 
-###[Contribution for the project](green_stocks (2).xlsm) DQ Analysis Tab
+###[Contribution for the project](vbachallenge.xlsm) DQ Analysis Tab
 
+Based on some of the data, it appears Daqo may not be the best stock for sole investment.  We wanted to analyze multiple stocks to find better choices for Steve's clients.
+###[Contribution for the project] (vbachallenge.xlsm) All Stocks Analysis Tab
 
 
 
 
 
 ##Summary
+SunRun(Run) and Enphase Energy(ENPH) showed the most positive returns in 2018 and 2017.  In fact all stocks with the exception of Terra Form Power(TERP) showed a positive return in 2017
