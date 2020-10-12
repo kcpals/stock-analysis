@@ -18,9 +18,15 @@ https://github.com/kcpals/stock-analysis/blob/main/2017.png
 https://github.com/kcpals/stock-analysis/blob/main/2018.png
 Additionally, to make running the analysis easier, we provided a Run Analysis for All stocks button within the document
 
-In the case Steve would like to to perform analysis on larger datasets and wants to know how fast his VBA code will compile results, we've added a script to calculate how long the code takes to execute tand output the elapsed time in a message box.
+In the case Steve would like to to perform analysis on larger datasets and wants to know how fast his VBA code will compile results, we've added a script to calculate how long the code takes to execute and output the elapsed time in a message box.
 Referencing the following, will show you the elapsed time for outputs as they are today
 https://github.com/kcpals/stock-analysis/tree/main/Resources
 
-## Summary
 SunRun(Run) and Enphase Energy(ENPH) showed the most positive returns in 2018 and 2017.  In fact all stocks with the exception of Terra Form Power(TERP) showed a positive return in 2017
+
+## Summary
+In summary, refactoring code appears to be a worth-while exercise.  The advantage is to give the client a cleaner document to build upon with larger data sets without prolonging run times.  If maintaing the document over a long period of time is known, one would definitely want to refactor the code.   The only disadvantage I can find is having to comb through the code in order to get to this state.  It can be a complicated if one if not well versed in VBA code. 
+
+Advantages of the original code appear to be for simplicity sake, for example if the data set is small, will not be changed or built upon any time soon or if time to complete the project is limited.  The disadvantages of the original code of course is if larger data will be added to the raw data later for larger analysis there could be long analysis times as well potential bugs as the data set grows.
+
+
