@@ -13,11 +13,14 @@ In performing the analysis of Daqo only, we wanted to understand the yearly retu
 Based on some of the data, it appears Daqo may not be the best stock for sole investment.  We wanted to analyze multiple stocks to find better choices for Steve's clients.
 ###[Contribution for the project] (vbachallenge.xlsm) All Stocks Analysis Tab
 
-To see how stocks performed at a glance, we colored positive returns in green and negative returns in red.
-![Outcomes Based on Date](resources/Theater_Outcomes_vs_Launch.png)
+To see how stocks performed at a glance, we colored positive returns in green and negative returns in red.  We provided this information for all stocks in 2017 and 2018.
+https://github.com/kcpals/stock-analysis/blob/main/2017.png
+https://github.com/kcpals/stock-analysis/blob/main/2018.png
 Additionally, to make running the analysis easier, we provided a Run Analysis for All stocks button within the document
 
-
+In the case Steve would like to to perform analysis on larger datasets and wants to know how fast his VBA code will compile results, we've added a script to calculate how long the code takes to execute tand output the elapsed time in a message box.
+Referencing the following, will show you the elapsed time for outputs as they are today
+https://github.com/kcpals/stock-analysis/tree/main/Resources
 
 ##Summary
 SunRun(Run) and Enphase Energy(ENPH) showed the most positive returns in 2018 and 2017.  In fact all stocks with the exception of Terra Form Power(TERP) showed a positive return in 2017
